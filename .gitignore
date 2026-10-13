@@ -28,6 +28,11 @@
 *.mod
 *.smod
 
+x64/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 # Compiled Static libraries
 *.lai
 *.la

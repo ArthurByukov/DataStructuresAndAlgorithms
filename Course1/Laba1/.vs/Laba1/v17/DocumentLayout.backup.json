@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\Laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\b.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\b.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\a.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\a.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\source.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\source.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\b.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{231F8E50-0E46-4EF0-9C29-CF17F5271624}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\b.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,33 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "source.txt",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\source.txt",
               "RelativeDocumentMoniker": "Laba1\\source.txt",
               "ToolTip": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\source.txt",
               "RelativeToolTip": "Laba1\\source.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-10-12T10:49:44.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "b.txt",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\b.txt",
               "RelativeDocumentMoniker": "Laba1\\b.txt",
               "ToolTip": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\b.txt",
               "RelativeToolTip": "Laba1\\b.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-10-12T10:49:23.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "a.txt",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\a.txt",
               "RelativeDocumentMoniker": "Laba1\\a.txt",
@@ -77,9 +77,9 @@
               "Title": "Laba1.cpp",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\Laba1.cpp",
               "RelativeDocumentMoniker": "Laba1\\Laba1.cpp",
-              "ToolTip": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\Laba1.cpp*",
-              "RelativeToolTip": "Laba1\\Laba1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\\u0412\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Documents\\DataStructuresAndAlgorithms\\Course1\\Laba1\\Laba1\\Laba1.cpp",
+              "RelativeToolTip": "Laba1\\Laba1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-12T08:50:20.04Z",
               "EditorCaption": ""
