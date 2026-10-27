@@ -1,3 +1,29 @@
+# ==========================================
+# Visual Studio / IDE
+# ==========================================
+.vs/
+v17/
+ipch/
+*.suo
+*.user
+*.sln.docstates
+*.VC.db
+*.db
+*.opendb
+*.VC.VC.opendb
+*.vsidx
+*.backup.json
+DocumentLayout.json
+
+# Файлы проекта (оставлено по твоему желанию, 
+# но учти: если будешь работать в команде, их лучше не игнорировать)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# ==========================================
+# C/C++ Compilation Artifacts (Сборка)
+# ==========================================
 # Prerequisites
 *.d
 
@@ -10,6 +36,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Linker files
 *.ilk
@@ -23,16 +50,6 @@
 *.dll
 *.so.*
 
-
-# Fortran module files
-*.mod
-*.smod
-
-x64/
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -44,7 +61,20 @@ x64/
 *.out
 *.app
 
-# Build directories
+# Fortran module files
+*.mod
+*.smod
+
+# debug information files
+*.dwo
+
+# ==========================================
+# Build directories & Systems
+# ==========================================
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
 build/
 Build/
 build-*/
@@ -57,18 +87,15 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
-# Temporary files
+# vcpkg
+vcpkg_installed/
+
+# ==========================================
+# Temporary files & Caches
+# ==========================================
 *.tmp
 *.log
 *.bak
 *.swp
-
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
 Testing/
 .cache/
